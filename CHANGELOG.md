@@ -1,6 +1,12 @@
 
 # MRNG (Mathematical Random Number Generator) - Changelog
 
+## Version 1.0.9 (pkg fix) - [22-03-2024]
+- Nothing Changed
+
+## Version 1.0.9 (pkg fix) - [22-03-2024]
+- updated githup repo
+
 ## Version 1.0.8 (pkg fix) - [22-03-2024]
 - npm fix in main repo
 
