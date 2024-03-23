@@ -1,7 +1,10 @@
 
 # MRNG (Mathematical Random Number Generator) - Changelog
 
-## Version 1.0.9 (pkg fix) - [22-03-2024]
+## Version 1.1.1 (pkg fix) - [22-03-2024]
+- Minor Changed
+
+## Version 1.1.0 (pkg fix) - [22-03-2024]
 - Nothing Changed
 
 ## Version 1.0.9 (pkg fix) - [22-03-2024]
