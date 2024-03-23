@@ -1,5 +1,7 @@
 var randomBytes = require('randombytes');
 const { Random } = require("random-js");
+var rand = require("all-random-words")
+var joke = require("dads_jokes")
 var _ = require("underscore");
 
 const random = new Random(); // uses the nativeMath engine
