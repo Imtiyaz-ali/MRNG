@@ -1,6 +1,6 @@
 {
   "name": "mrng",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "MRNG (Mathematical Random Number Generator) MRNG is a Node.js module that provides a mathematical approach to generating random numbers",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/Imtiyaz-ali/MRNG.git"
+    "url": "https://github.com/Imtiyaz-ali/MRNG"
   },
   "keywords": [
     "ramdom",
