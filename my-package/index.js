@@ -3,9 +3,10 @@ const { Random } = require("random-js");
 var rand = require("all-random-words")
 var joke = require("dads_jokes")
 var _ = require("underscore");
+const logger = require('pino')()
 
 const random = new Random(); // uses the nativeMath engine
-
+logger.info('You Are Using MRNG')
 
 // Method 1: Bitwise operations for randomness
 function bitwiseRandom(max) {
